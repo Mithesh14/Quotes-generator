@@ -19,4 +19,6 @@
 
 ![screenshots](https://github.com/Mithesh14/Quotes-generator/blob/main/images/image6.jpg)
 
+![screenshots](https://github.com/Mithesh14/Quotes-generator/blob/main/images/image7.jpg)
+
 
